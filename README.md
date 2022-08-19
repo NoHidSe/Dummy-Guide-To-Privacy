@@ -10,4 +10,16 @@ In This Guide We Will Talk About The Basic To The Advanced In How To Secure Your
 
 Compiled From A Lot Of Youtube Tutorial And Privacy Wikis Plus From Personal Experience
 
-# Sorry Still Working In Progress In The Meantime You Can Look At The md files in the Code Section
+## List Of Contents
+
+### Security
+
+- [Passwords](./Security/passwords.md)
+- [Email](./Security/email.md)
+- [2FA](./Security/2FA.md)
+- [username](./Security/username.md)
+- [cleaning](./Security/cleaning.md)
+
+### Privacy
+
+**Sorry Still Not Finish With Privacy Still Researching**
