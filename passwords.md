@@ -20,13 +20,8 @@ This Is One Of The Most Recommended Things You Do If You Watch Any Kind Of "How 
   - Cons
     
     - Not A Local File
-    
   
-  
-  
-  - Cons
-    
-    - You Need Another PC/Laptop/Rasberry Pi To Host The Server
+  [Setup](https://youtu.be/qzuut0-noHk)
 
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) (Self Hosted)
   
@@ -40,7 +35,11 @@ This Is One Of The Most Recommended Things You Do If You Watch Any Kind Of "How 
     
     - Open Source
   
-  How To Setup : https://youtu.be/eCJA1F72izc
+  - Cons
+    
+    - You Need Another PC/Laptop/Rasberry Pi To Host The Server
+  
+  [Setup](https://youtu.be/eCJA1F72izc)
 
 - [KeePassXC](https://keepassxc.org/)
   
