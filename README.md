@@ -1,4 +1,4 @@
-# Dummy-Guide-To-Privacy-And-Security
+# Dummy Guide To Privacy And Security
 
 The Quote "You Dont Need To Fear If You Got Nothing To Hide" Is The Most Bulls*** Quote That I Ever Heard Because Remember
 
