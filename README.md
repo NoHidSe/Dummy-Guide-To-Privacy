@@ -6,5 +6,4 @@ In This Guide We Will Talk About The Basic To The Advanced In How To Secure Your
 
 Compiled From A Lot Of Youtube Tutorial And Privacy Wikis Plus From Personal Experience
 
-## List Of Contents
-- []()
+# Sorry Still Working In Progress In The Meantime You Can Look At The md files in the Code Section
