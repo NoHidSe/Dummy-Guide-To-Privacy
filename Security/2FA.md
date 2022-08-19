@@ -14,7 +14,7 @@
 
 - Hardware Security Keys
 
-MFA, SMS, And Push Notification Is A No Go Please Disable It If You Can Because Even Tho It Securer Then Without It, It Is Still Very Vulnerable.
+MFA, SMS, And Push Notification Is A No Go Please Disable It If You Can Because Even Tho It Securer Than Without It, It Is Still Very Vulnerable.
 
 TOTP Is A Free Way To Secure It
 Use [Aegis](https://getaegis.app/) Because Its A Free And Open Source Authenticator
