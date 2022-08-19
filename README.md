@@ -1,6 +1,10 @@
 # Dummy-Guide-To-Privacy-And-Security
 
-A Simple Guide To A Human Right That Is Being Controlled By Corpo And The Goverment
+The Quote "You Dont Need To Fear If You Got Nothing To Hide" Is The Most Bulls*** Quote That I Ever Heard Because Remember
+
+> Privacy Is The Foundation Of All Other Rights
+> 
+> -Edward Snowden
 
 In This Guide We Will Talk About The Basic To The Advanced In How To Secure Your Self In The Worldwide Web
 
