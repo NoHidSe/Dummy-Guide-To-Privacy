@@ -20,6 +20,16 @@ Custom Roms Is A Great Way To Degoogle Your Phone But To Be Realistic Your Avera
 
 [CalyxOS](https://calyxos.org/) And [Graohene OS](https://grapheneos.org/). Both Are Great At What They Intend To Do
 
-## Bloat
+### Bloat
 
-Disgusting Bloat 
+Disgusting Bloat, Bloat Is Like A Plaugue That Leaches To Your Soul Sucking You Dry
+
+Now I Will Show You How To Delete it, [UAD](https://github.com/0x192/Universal-Android-Debloater) Is A Great Way To Delete
+
+Step By Step Guide :
+
+1. Download [UAD](https://github.com/0x192/Universal-Android-Debloater) And ADB (Search "ADB Install On *Insert Your Computer OS*")
+
+2. Turn On USB Debugging (Search "How To Turn On USB Debugging On *Phone Model*" Because Its Diffrent On Every Phone)
+
+3. Just Open It And Start Deleting I Recommend You Stick On The Recommendation Section
