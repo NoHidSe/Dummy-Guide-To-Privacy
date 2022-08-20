@@ -30,6 +30,8 @@ All Of My Guides Is Not Sponsored By Anyone or Any company and all are my person
 
 - [Computers](./Privacy/Computer.md)  
 
+- [Browsers](./Privacy/browser.md)
+
 ## FAQ
 
 - Can I Fork It And Change Some Tools ?  
