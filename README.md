@@ -28,7 +28,7 @@ All Of My Guides Is Not Sponsored By Anyone or Any company and all are my person
 
 - [Phones](./Privacy/Phones.md)
 
-- [Computer](./Privacy/Computer.md)
+- [Computer](./Privacy/Computer.md) 
 
 ## FAQ
 
