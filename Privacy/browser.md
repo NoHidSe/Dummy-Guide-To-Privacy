@@ -88,10 +88,4 @@ Yes The Title Is True, Just Something That Doesn't Track You Is Just something, 
 
 - Wikipedia > [Wikiless](https://codeberg.org/orenom/wikiless)
 
-And More You Can Check [Libredirect](https://github.com/libredirect/libredirect) For More Frontends 
-
-
-
-
-
-
+And More You Can Check [Libredirect](https://github.com/libredirect/libredirect) And [This Github Repo](https://github.com/digitalblossom/alternative-frontends) For More Frontends 
