@@ -28,7 +28,7 @@ But If You Really Need It I Recommend [Malwarebytes](https://www.malwarebytes.co
 
 I Don't Really Have A Mac OS VM nor A Computer So I Can't Make  A Guide Without Replicating It And Confirming It (Maybe Other People Could Help With A Pull Request And If Can, Give Evidence thank you)
 
-### Linux
+## Linux
 
 ahh so you have come to the god sent os gnu/linux the land of cli and neofetch, but in a serious note linux is the best os for privacy because Its Open Source And Free (Rather than windows) Plus Bacuse Its Low Market Share It Has Little Known Malware But Still Make Sure To Check It With [Virus Total](https://www.virustotal.com/gui/home/upload) 
 
