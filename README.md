@@ -55,4 +55,16 @@ All Of My Guides Is Not Sponsored By Anyone or Any company and all are my person
 
 ## Credits
 
-I'm Really Sorry Currently Compiling All My Sources
+- Techlore great guides Like [this](https://github.com/techlore/go-incognito) and [this](https://www.techlore.tech/resources)
+
+- [Privacyguides.org](https://www.privacyguides.org/tools/) Great Guides
+
+- [Privacytools.io](https://www.privacytools.io/) With There Great [Subreddit](https://www.reddit.com/r/privacytoolsIO/) 
+
+- [r/privacy](https://www.reddit.com/r/privacy) A Gateway Into Privacy
+
+- [censiCLICK](https://youtube.com/channel/UCy2b5p8-XccSOR_x5HGpiRA) great To Learn About Security And How To harden It
+
+- [The Hated One](https://youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q) Great To Learn About How to Harden Your Privacy
+
+- [Wolfgang's Channel](https://youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg) Great To Learn About VPN And Self Hosting

@@ -82,6 +82,8 @@ Hands Down [Netguard](https://netguard.me/) Is Just Chef Kiss For A Firewall Jus
 
 IOS Proably Is A Fav In The Privacy Community Just One Problem Apple. We Can't Just De-apple Your Iphone But Still A Great OS For Basic Privacy
 
+censiCLICK has a Well Produced Video On How To Hardened It Right [Here](https://piped.tokhmi.xyz/watch?v=MGxKhrG2Vn4)
+
 ### Firewall
 
 [Lockdown](https://apps.apple.com/us/app/lockdown-privacy-vpn-proxy/id1469783711) Is The Most Popular Firewall In IOS As It Has The Most Features 
@@ -89,5 +91,3 @@ IOS Proably Is A Fav In The Privacy Community Just One Problem Apple. We Can't J
 ### Browsers
 
 Safari Is Great For Privacy As It Has HTTPS As Default But Firefox Is A Good Alternative If You Don't Trust Tim Apple
-
-
