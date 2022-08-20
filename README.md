@@ -28,8 +28,6 @@ All Of My Guides Is Not Sponsored By Anyone or Any company and all are my person
 
 **Sorry Still Not Finish With Privacy Still Researching**
 
-
-
 ## FAQ
 
 - Can I Fork It And Change Some Tools ?  
@@ -38,3 +36,12 @@ All Of My Guides Is Not Sponsored By Anyone or Any company and all are my person
   Well I Would Make That Mistake Thats Why If You Think Something Is Wrong You Can Make A Pull Request To The Main Branch
 - You Spelled That Wrong / Wtf do you mean with that?  
   I'm Sorry English Is A Second Languange For Me So I'm Not That Fluent
+- How Can I Support You?
+  
+  You Can Support Me By Helping Out With The Repo If You Have Time 
+  
+  But If You Talking In A Monetary senes No Need
+  
+  Maybe Il Add A Donate Button But i Dont Want To Look Like I Just Copy Paste All The Source For Money
+  
+  Everything Will Be Free And Stays Free If You Want You Can Support All The Sources In The Credits Section
