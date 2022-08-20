@@ -2,9 +2,9 @@
 
 Your PC/Laptop Is The 2nd Most Used Device In Your Lifetime Thats Why You Should Secure It From GoFaMi ( Google, Facebook, Microsoft )
 
-### Windows
+## Windows
 
-#### Bloat And Trackers
+### Bloat And Trackers
 
 Windows Is A Bloated And Spyware OS And Thats Why We Are Going To Fix It With 2 Simple Fixes
 
@@ -14,7 +14,7 @@ Windows Is A Bloated And Spyware OS And Thats Why We Are Going To Fix It With 2 
 
 Just Follow The Recommended Settings And You Will Be Just Fine 
 
-#### Malware
+### Malware
 
 Some People Think Every Computer Needs An Anti-virus While This Is True But Only True For Old People Or People Who Is Not Tech Savy
 
@@ -24,7 +24,7 @@ Or If You're Not Sure You Can Put the File In [Virus Total](https://www.virustot
 
 But If You Really Need It I Recommend [Malwarebytes](https://www.malwarebytes.com/)  
 
-### Mac OS
+## Mac OS
 
 I Don't Really Have A Mac OS VM nor A Computer So I Can't Make  A Guide Without Replicating It And Confirming It (Maybe Other People Could Help With A Pull Request And If Can, Give Evidence thank you)
 
@@ -32,7 +32,7 @@ I Don't Really Have A Mac OS VM nor A Computer So I Can't Make  A Guide Without 
 
 ahh so you have come to the god sent os gnu/linux the land of cli and neofetch, but in a serious note linux is the best os for privacy because Its Open Source And Free (Rather than windows) Plus Bacuse Its Low Market Share It Has Little Known Malware But Still Make Sure To Check It With [Virus Total](https://www.virustotal.com/gui/home/upload) 
 
-#### Distro(s)
+### Distro(s)
 
 There Is A Crap Ton Of Distro Just Check [Its Own Wikipedia Page](https://en.wikipedia.org/wiki/List_of_Linux_distributions) But I Recommend 3 OS For Beginners
 
