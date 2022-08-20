@@ -26,16 +26,21 @@ All Of My Guides Is Not Sponsored By Anyone or Any company and all are my person
 
 ### Privacy
 
-**Sorry Still Not Finish With Privacy Still Researching**
+- [Phones](./Privacy/Phones.md)
+
+- [Computer](./Privacy/Computer.md)
 
 ## FAQ
 
 - Can I Fork It And Change Some Tools ?  
   DEFINITELY, Thats Why Its Open Source Make It Your Own
+
 - You're Wrong This Tool Is Broken/Crap.  
   Well I Would Make That Mistake Thats Why If You Think Something Is Wrong You Can Make A Pull Request To The Main Branch
+
 - You Spelled That Wrong / Wtf do you mean with that?  
   I'm Sorry English Is A Second Languange For Me So I'm Not That Fluent
+
 - How Can I Support You?
   
   You Can Support Me By Helping Out With The Repo If You Have Time 
