@@ -10,7 +10,7 @@ Using Your Real Name Is A Really Stupid Way To Hide Your Identity
 
 Example : "*insert name* Gaming123420"
 
-If You Want To Use Your Real Name You Can Use It MAYBE in your social media but if you do that make sure you don't post controversial things or you may lost that job high paying interview
+If You Want To Use Your Real Name You Can Use It MAYBE in your social media but if you do that make sure you don't post controversial things or you may lose that job high paying interview
 
 ### Use A Generator
 
