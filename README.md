@@ -55,7 +55,7 @@ All Of My Guides Is Not Sponsored By Anyone or Any company and all are my person
 
 ## Credits
 
-- Techlore great guides Like [this](https://github.com/techlore/go-incognito) and [this](https://www.techlore.tech/resources)
+- [Techlore](https://youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg) great guides Like [this](https://github.com/techlore/go-incognito) and [this](https://www.techlore.tech/resources)
 
 - [Privacyguides.org](https://www.privacyguides.org/tools/) Great Guides
 
